@@ -51,3 +51,30 @@ Acrobatic Clear
 COM Playing Styles
 Long Ball Expert
 ```
+* [K. AJER](http://pesdb.net/pes2019/?id=121422)
+```
+Header:	79
+Defensive Prowess:	77
+Ball Winning:	79
+Kicking Power:	79
+Speed:	77
+Explosive Power:	76
+Unwavering Balance:	63
+Physical Contact:	84
+Jump:	77
+Goalkeeping:	40
+GK Catch:	40
+Clearing:	40
+Reflexes:	40
+Coverage:	40
+Stamina:	78
+Playing Style
+Build Up
+Player Skills
+-
+COM Playing Styles
+Long Ball Expert
+```
+
+
+
