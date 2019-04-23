@@ -2,7 +2,7 @@
 
 * Navigation
   - [CB](#CB)
-  - [DMF/CMF](#DMF-CMF)
+  - [DMF/CMF](#DMF/CMF)
 
 ## CB
 ```
@@ -34,7 +34,7 @@ Recommend filter:http://pesdb.net/pes2019/?age=15-30&height=180-227&pos=1&ball_w
 |CB|C. YAMBERÉ|DIJON|Ligue 1 Conforama|191|28|60|82|81|76|75|78|76|55|83|---|Yes|Yes|
 |CB|S. SAMIR|Free Agents|Free Agent|185|29|52|79|81|79|77|76|73|57|81|---|Yes|Yes|
 
-## DMF-CMF
+## DMF/CMF
 ```
 Age:15-30
 speed$power:70+
