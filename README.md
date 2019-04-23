@@ -2,7 +2,7 @@
 
 * Navigation
   - [CB](#CB)
-  - [DMF/CMF](#DMF/CMF)
+  - [DMF/CMF](#DMF-CMF)
 
 ## CB
 ```
@@ -34,7 +34,7 @@ Recommend filter:http://pesdb.net/pes2019/?age=15-30&height=180-227&pos=1&ball_w
 |CB|C. YAMBERÉ|DIJON|Ligue 1 Conforama|191|28|60|82|81|76|75|78|76|55|83|---|Yes|Yes|
 |CB|S. SAMIR|Free Agents|Free Agent|185|29|52|79|81|79|77|76|73|57|81|---|Yes|Yes|
 
-## DMF/CMF
+## DMF-CMF
 ```
 Age:15-30
 speed$power:70+
@@ -80,7 +80,7 @@ http://pesdb.net/pes2019/?age=15-32&height=179-227&pos=4,5&speed=70-99&explosive
 |CMF|M. DE ROON|ATALANTA|Italian League|185|27|70|82|73|73|89|79|53|85|Box-to-Box|
 |DMF|A. SAMARIS|BENFICA|Liga NOS|189|29|68|83|71|71|83|79|52|85|Box-to-Box|
 
-## CF/SS
+## CF-SS
 ```
 Age:15-30
 height:178
