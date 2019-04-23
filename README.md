@@ -1,7 +1,6 @@
 # pes2019-myclub-players
 ## CB
-* J. GNAGNON
-http://pesdb.net/pes2019/?id=110526
+* [J. GNAGNON](http://pesdb.net/pes2019/?id=110526)
 ```
 Header:	84
 Defensive Prowess:	81
@@ -20,8 +19,7 @@ Coverage:	40
 Stamina:	76
 ```
 
-* M. SARR
-http://pesdb.net/pes2019/?id=114196
+* [M. SARR](http://pesdb.net/pes2019/?id=114196)
 ```
 Header:	79
 Defensive Prowess:	80
