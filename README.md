@@ -113,4 +113,47 @@ http://pesdb.net/pes2019/?age=15-32&height=179-227&pos=4,5&speed=70-99&explosive
 |CMF|M. DE ROON|ATALANTA|Italian League|185|27|70|82|73|73|89|79|53|85|Box-to-Box|
 |DMF|A. SAMARIS|BENFICA|Liga NOS|189|29|68|83|71|71|83|79|52|85|Box-to-Box|
 
+### CF/SS
+```
+Age:15-30
+height:178
+speed$power:75+
+stamina:86+
+finshing:75+
+```
+http://pesdb.net/pes2019/?age=15-32&height=178-227&pos=11,12&finishing=75-99&speed=75-99&explosive_power=75-99&stamina=76-99&overall_rating=40-79&sort=overall_at_max_level
 
+|Position|Player Name|Team Name|League|Height|Age|Attacking Prowess|Finishing|Defensive Prowess|Speed|Explosive Power|Stamina|Overall Rating|Maximum Level|Overall at max Level|Playing Style|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|CF|F. CHALOV|CSKA MOSKVA|Russian Premier Liga|180|20|83|78|51|87|88|77|79|71|91|Goal Poacher|
+|CF|M. MAOLIDA|NICE|Ligue 1 Conforama|181|19|80|79|50|86|88|78|77|77|90|Hole Player|
+|CF|P. PELLEGRI|MONACO|Ligue 1 Conforama|188|17|78|78|40|79|80|77|73|91|90|Target Man|
+|CF|K. DOLBERG|AJAX|Eredivisie|186|21|81|80|59|79|76|77|79|66|89|Goal Poacher|
+|CF|WESLEY|CLUB BRUGGE|Jupiler Pro League|191|22|82|83|43|81|76|79|79|61|88|Target Man|
+|CF|B. EMBOLO|SCHALKE 04|Other European Leagues|185|21|79|78|50|88|87|79|78|66|88|Dummy Runner|
+|CF|E. ÜNAL|CL PURPLE|Spanish League|185|21|80|80|60|81|79|77|78|66|88|Fox in the Box|
+|CF|P. CUTRONE|MILAN|Italian League|183|20|80|83|59|82|78|78|78|71|88|Goal Poacher|
+|CF|K. PIĄTEK|MILAN|Italian League|183|23|84|85|46|80|76|78|79|58|87|Fox in the Box|
+|CF|C. KOUAMÉ|GENOA|Italian League|185|21|77|75|49|88|86|81|77|67|87|Dummy Runner|
+|CF|D.CALVERT-LEWIN|MERSEYSIDE BLUE|English League|187|21|71|76|59|87|82|77|77|67|87|Goal Poacher|
+|CF|A. AJETI|BASEL|Raiffeisen Super League|183|21|80|81|50|83|81|76|76|67|87|Goal Poacher|
+|CF|ROGER MARTÍ|ED BLUE BURGUNDY|Spanish League|179|27|84|85|44|80|81|82|79|53|86|Fox in the Box|
+|CF|R. JIMÉNEZ|WM GOLD|English League|187|27|80|79|57|81|82|87|79|53|86|Target Man|
+|CF|K. LASAGNA|UDINESE|Italian League|186|26|83|80|50|90|88|82|79|54|86|Goal Poacher|
+|CF|R. ÁBILA|BOCA JUNIORS|Superliga Quilmes Clásica|180|29|85|84|42|76|79|79|79|52|86|Goal Poacher|
+|CF|TIQUINHO SOARES|PORTO|Liga NOS|184|27|80|82|66|80|80|80|79|53|86|Fox in the Box|
+|CF|D. ORIGI|LIVERPOOL|English League|185|23|80|77|51|86|87|76|78|59|86|Goal Poacher|
+|CF|G. LABORDE|MONTPELLIER|Ligue 1 Conforama|181|24|82|81|50|82|82|77|78|56|86|Goal Poacher|
+|CF|S. DRIUSSI|ZENIT|Russian Premier Liga|179|22|77|79|50|80|83|79|77|63|86|Goal Poacher|
+|CF|M. THURAM|GUINGAMP|Ligue 1 Conforama|192|21|81|77|46|81|77|78|77|67|86|Goal Poacher|
+|CF|G. KOYALIPOU|NIORT|Domino's Ligue 2|183|18|77|75|42|81|83|77|69|86|86|Fox in the Box|
+|CF|V. GERMAIN|OLYMPIQUE MARSEILLE|Ligue 1 Conforama|180|28|80|79|52|80|78|80|79|52|85|Goal Poacher|
+|CF|C. WILSON|EAST DORSETSHIRE|English League|180|26|82|83|49|88|88|76|79|54|85|Goal Poacher|
+|CF|K. BABACAR|SASSUOLO|Italian League|191|25|83|79|48|79|77|78|78|55|85|Target Man|
+|CF|M. BORJA|PALMEIRAS|Campeonato Brasileiro|183|25|83|82|47|82|81|82|78|55|85|Goal Poacher|
+|CF|A. MENDY|GUINGAMP|Ligue 1 Conforama|184|24|81|76|53|81|82|81|78|56|85|Dummy Runner|
+|CF|F. ANDONE|EAST SUSSEX|English League|180|25|82|79|47|80|81|87|78|55|85|Goal Poacher|
+|CF|SERGIO LEÓN|AN GREEN WHITE|Spanish League|178|29|80|82|46|84|84|79|78|53|85|Goal Poacher|
+|CF|L. MOTHIBA|STRASBOURG|Ligue 1 Conforama|182|22|79|78|52|80|81|77|77|63|85|---|
+|CF|T. ABRAHAM|WEST MIDLANDS VILLAGE|English 2nd Division|190|21|77|78|52|82|86|76|75|68|85|Goal Poacher|
+|CF|N. BLANDI|SAN LORENZO|Superliga Quilmes Clásica|181|28|82|78|56|75|76|80|78|53|84|Goal Poacher|
