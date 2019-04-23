@@ -17,6 +17,12 @@ Clearing:	40
 Reflexes:	40
 Coverage:	40
 Stamina:	76
+Playing Style
+The Destroyer
+Player Skills
+Heading
+COM Playing Styles
+-
 ```
 
 * [M. SARR](http://pesdb.net/pes2019/?id=114196)
@@ -36,4 +42,12 @@ Clearing:	40
 Reflexes:	40
 Coverage:	40
 Stamina:	85
+Playing Style
+---
+Player Skills
+Man Marking
+Interception
+Acrobatic Clear
+COM Playing Styles
+Long Ball Expert
 ```
