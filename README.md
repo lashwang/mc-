@@ -1,7 +1,11 @@
 # pes2019-myclub-players
 ## speed players
 
-|League|184|23|66|68|95|93|84|77|59|85|Offensive Full-back|
+|Position|Player Name|Team Name|League|Height|Age|Attacking Prowess|Defensive Prowess|Speed|Explosive Power|Stamina|Overall Rating|Maximum Level|Overall at max Level|Playing Style|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|RWF|ADAMA TRAORÉ|WM GOLD|English League|178|22|68|50|95|93|73|78|62|86|Prolific Winger|
+|CF|F. ACHEAMPONG|TIANJIN TEDA|CFA Super League|168|25|75|58|95|90|83|77|56|84|Prolific Winger|
+|RB|K. MBABU|YOUNG BOYS|Raiffeisen Super League|184|23|66|68|95|93|84|77|59|85|Offensive Full-back|
 |CF|C. N'JIE|OLYMPIQUE MARSEILLE|Ligue 1 Conforama|175|25|80|52|94|93|78|78|55|85|Dummy Runner|
 |RWF|O. BERRÍO|FLAMENGO|Campeonato Brasileiro|182|27|72|55|94|90|74|74|57|81|Prolific Winger|
 |RB|D. YEDLIN|TYNESIDE|English League|172|25|66|68|93|93|83|75|58|83|Offensive Full-back|
@@ -31,6 +35,7 @@
 |RB|C. ARBOLEDA|SANTA FE|Liga Águila|169|32|58|55|91|89|79|70|55|78|Offensive Full-back|
 |RMF|J. FORREST|CELTIC|Ladbrokes Premiership|170|27|70|55|90|92|78|79|53|84|Roaming Flank|
 |RMF|K. BELLARABI|BAYER LEVERKUSEN|Other European Leagues|184|28|77|55|90|92|75|79|52|85|Prolific Winger|
+
 
 ## CB
 Recommend filter:http://pesdb.net/pes2019/?age=15-30&height=180-227&pos=1&ball_winning=76-99&speed=75-99&explosive_power=75-99&stamina=75-99&overall_rating=40-79&S33=1&S35=1&sort=overall_at_max_level
