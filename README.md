@@ -75,6 +75,32 @@ Player Skills
 COM Playing Styles
 Long Ball Expert
 ```
+* [ÉDER MILITÃO](http://pesdb.net/pes2019/?id=113525)
+```
+Header:	78
+Defensive Prowess:	78
+Ball Winning:	79
+Kicking Power:	72
+Speed:	79
+Explosive Power:	79
+Unwavering Balance:	69
+Physical Contact:	77
+Jump:	79
+Goalkeeping:	40
+GK Catch:	40
+Clearing:	40
+Reflexes:	40
+Coverage:	40
+Stamina:	79
+Playing Style
+Build Up
+Player Skills
+Interception
+Acrobatic Clear
+COM Playing Styles
+-
+```
+
 
 
 
