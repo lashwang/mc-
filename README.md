@@ -1,5 +1,5 @@
 # pes2019-myclub-silver-players
-## speed players
+## Speed players
 
 |Position|Player Name|Team Name|League|Height|Age|Attacking Prowess|Defensive Prowess|Speed|Explosive Power|Stamina|Overall Rating|Maximum Level|Overall at max Level|Playing Style|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
