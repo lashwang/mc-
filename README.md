@@ -1,107 +1,16 @@
 # pes2019-myclub-players
 ## CB
-Recommend filter:http://pesdb.net/pes2019/?age=15-30&height=180-227&pos=1&ball_winning=85-99&speed=75-99&stamina=75-99&overall_rating=40-79&sort=overall_at_max_level
+Recommend filter:http://pesdb.net/pes2019/?age=15-30&height=180-227&pos=1&ball_winning=85-99&speed=75-99&stamina=75-99&overall_rating=40-79&S33=1&S35=1
 
-* [J. GNAGNON](http://pesdb.net/pes2019/?id=110526)
-```
-Header:	84
-Defensive Prowess:	81
-Ball Winning:	84
-Kicking Power:	68
-Speed:	75
-Explosive Power:	73
-Unwavering Balance:	64
-Physical Contact:	81
-Jump:	85
-Goalkeeping:	40
-GK Catch:	40
-Clearing:	40
-Reflexes:	40
-Coverage:	40
-Stamina:	76
-Playing Style
-The Destroyer
-Player Skills
-Heading
-COM Playing Styles
--
-```
 
-* [M. SARR](http://pesdb.net/pes2019/?id=114196)
-```
-Header:	79
-Defensive Prowess:	80
-Ball Winning:	80
-Kicking Power:	55
-Speed:	80
-Explosive Power:	78
-Unwavering Balance:	73
-Physical Contact:	80
-Jump:	90
-Goalkeeping:	40
-GK Catch:	40
-Clearing:	40
-Reflexes:	40
-Coverage:	40
-Stamina:	85
-Playing Style
----
-Player Skills
-Man Marking
-Interception
-Acrobatic Clear
-COM Playing Styles
-Long Ball Expert
-```
-* [K. AJER](http://pesdb.net/pes2019/?id=121422)
-```
-Header:	79
-Defensive Prowess:	77
-Ball Winning:	79
-Kicking Power:	79
-Speed:	77
-Explosive Power:	76
-Unwavering Balance:	63
-Physical Contact:	84
-Jump:	77
-Goalkeeping:	40
-GK Catch:	40
-Clearing:	40
-Reflexes:	40
-Coverage:	40
-Stamina:	78
-Playing Style
-Build Up
-Player Skills
--
-COM Playing Styles
-Long Ball Expert
-```
-* [ÉDER MILITÃO](http://pesdb.net/pes2019/?id=113525)
-```
-Header:	78
-Defensive Prowess:	78
-Ball Winning:	79
-Kicking Power:	72
-Speed:	79
-Explosive Power:	79
-Unwavering Balance:	69
-Physical Contact:	77
-Jump:	79
-Goalkeeping:	40
-GK Catch:	40
-Clearing:	40
-Reflexes:	40
-Coverage:	40
-Stamina:	79
-Playing Style
-Build Up
-Player Skills
-Interception
-Acrobatic Clear
-COM Playing Styles
--
-```
+|Position|Player Name|Team Name|League|Height|Age|Attacking Prowess|Defensive Prowess|Ball Winning|Speed|Explosive Power|Stamina|Overall Rating|Maximum Level|Overall at max Level|Playing Style|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|CB|L. MAGALLÁN|AJAX|Eredivisie|181|25|59|83|85|81|75|79|79|55|87|---|
+|CB|C. SÖYÜNCÜ|EAST MIDLANDS|English League|187|22|57|79|85|77|72|79|79|61|87|Build Up|
+|CB|ÁLVARO GONZÁLEZ|ED YELLOW|Spanish League|183|28|58|89|85|77|75|84|79|52|86|The Destroyer|
+|CB|C. LUYINDAMA|GALATASARAY|Spor Toto Süper Lig|191|24|61|80|85|77|73|75|78|56|86|The Destroyer|
+|CB|A. DRAGOVIĆ|BAYER LEVERKUSEN|Other European Leagues|184|27|58|83|86|78|75|76|78|54|85|The Destroyer|
+|CB|E. CABACO|ED BLUE BURGUNDY|Spanish League|186|23|61|86|85|75|67|79|75|61|84|Build Up|
 
 
 
