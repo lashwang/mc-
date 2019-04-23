@@ -67,3 +67,50 @@ Recommend filter:http://pesdb.net/pes2019/?age=15-30&height=180-227&pos=1&ball_w
 |CB|C. YAMBERÉ|DIJON|Ligue 1 Conforama|191|28|60|82|81|76|75|78|76|55|83|---|Yes|Yes|
 |CB|S. SAMIR|Free Agents|Free Agent|185|29|52|79|81|79|77|76|73|57|81|---|Yes|Yes|
 
+### DMF/CMF
+```
+Age:15-30
+speed$power:70+
+stamina:80+
+
+```
+
+Recommend filter:
+http://pesdb.net/pes2019/?age=15-32&height=179-227&pos=4,5&speed=70-99&explosive_power=70-99&stamina=80-99&overall_rating=40-79&sort=overall_at_max_level
+
+|Position|Player Name|Team Name|League|Height|Age|Attacking Prowess|Defensive Prowess|Speed|Explosive Power|Stamina|Overall Rating|Maximum Level|Overall at max Level|Playing Style|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|DMF|S. BERGE|GENK|Jupiler Pro League|193|20|66|73|79|78|84|79|71|90|Anchor Man|
+|CMF|GEDSON|BENFICA|Liga NOS|181|19|70|64|85|87|87|75|78|89|Box-to-Box|
+|DMF|A. BLIN|AMIENS SC|Ligue 1 Conforama|184|22|75|78|81|80|86|79|61|88|Anchor Man|
+|DMF|R. MANDRAGORA|UDINESE|Italian League|183|21|66|72|72|73|81|77|67|88|Anchor Man|
+|CMF|T. DAVIES|MERSEYSIDE BLUE|English League|180|20|70|65|74|76|80|77|71|88|Box-to-Box|
+|CMF|B. CRISTANTE|ROMA|Italian League|186|23|79|65|76|73|83|79|58|87|Hole Player|
+|DMF|E. SKHIRI|MONTPELLIER|Ligue 1 Conforama|185|23|70|80|78|78|84|79|58|87|Offensive Full-back|
+|DMF|ZAMBO ANGUISSA|WEST LONDON WHITE|English League|184|23|69|81|71|70|84|79|58|87|The Destroyer|
+|DMF|F. GRILLITSCH|Free Agents|Free Agent|186|23|72|78|76|73|80|79|58|87|Anchor Man|
+|DMF|C. BENAVÍDEZ|INDEPENDIENTE|Superliga Quilmes Clásica|185|20|68|70|78|73|80|74|73|87|---|
+|CMF|R. SORIANO|BOLOGNA|Italian League|182|27|78|67|79|76|80|79|53|86|Hole Player|
+|CMF|M. BENASSI|FIORENTINA|Italian League|184|24|74|67|75|75|83|79|55|86|Box-to-Box|
+|CMF|N. BENTALEB|SCHALKE 04|Other European Leagues|187|24|73|70|70|73|80|79|55|86|Orchestrator|
+|CMF|W. CYPRIEN|NICE|Ligue 1 Conforama|180|23|72|70|77|78|80|79|58|86|Box-to-Box|
+|DMF|A. TOURÉ|NANTES|Ligue 1 Conforama|186|24|61|86|81|73|85|79|55|86|The Destroyer|
+|DMF|J. LERMA|EAST DORSETSHIRE|English League|179|24|61|80|77|75|88|79|55|86|---|
+|DMF|O. YOKUŞLU|GA CYAN|Spanish League|190|24|69|73|74|72|84|79|55|86|Orchestrator|
+|CMF|D. PRAET|SAMPDORIA|Italian League|181|24|74|57|77|79|80|78|56|86|Box-to-Box|
+|DMF|O. TUFAN|ALANYASPOR|Spor Toto Süper Lig|179|23|74|67|78|77|83|78|59|86|Box-to-Box|
+|CMF|L. EVANGELISTA|NANTES|Ligue 1 Conforama|180|23|75|66|76|78|81|78|59|86|Hole Player|
+|DMF|MARCOS LLORENTE|MD WHITE|Spanish League|183|23|64|80|70|73|82|78|59|86|Anchor Man|
+|CMF|J. JANKTO|SAMPDORIA|Italian League|180|22|75|59|82|83|82|78|62|86|Hole Player|
+|CMF|R. LOFTUS-CHEEK|LONDON FC|English League|191|22|76|70|75|77|80|78|62|86|Hole Player|
+|DMF|A. TAMEZE|NICE|Ligue 1 Conforama|180|24|68|80|77|77|82|78|56|86|Anchor Man|
+|CMF|D. ZAKARIA|Free Agents|Free Agent|191|22|61|76|77|74|81|78|62|86|Anchor Man|
+|CMF|A. BARÁK|UDINESE|Italian League|190|24|78|66|73|72|83|78|56|86|Box-to-Box|
+|DMF|S. SAMBIA|MONTPELLIER|Ligue 1 Conforama|181|22|75|71|73|76|82|76|63|86|The Destroyer|
+|CMF|L. BLAS|GUINGAMP|Ligue 1 Conforama|180|21|70|60|78|80|81|76|67|86|---|
+|DMF|P. LASNE|MONTPELLIER|Ligue 1 Conforama|186|29|70|79|80|78|80|79|52|85|Anchor Man|
+|CMF|D. PRÖPPER|EAST SUSSEX|English League|185|27|72|65|73|70|85|79|53|85|---|
+|CMF|M. DE ROON|ATALANTA|Italian League|185|27|70|82|73|73|89|79|53|85|Box-to-Box|
+|DMF|A. SAMARIS|BENFICA|Liga NOS|189|29|68|83|71|71|83|79|52|85|Box-to-Box|
+
+
