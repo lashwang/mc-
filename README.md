@@ -5,7 +5,8 @@
   - [DMF/CMF](#DMF-CMF)
   - [CF/SS](#CF-SS)
   - [HIGH SPEED](#SPEED)
-
+  - [Good Stamina](#STAMINA)
+  
 ## CB
 ```
 Age:15-30
@@ -155,3 +156,7 @@ http://pesdb.net/pes2019/?speed=90-99&explosive_power=90-99&stamina=75-99&overal
 |RWF|M. CERATTO|EVERTON|Campeonato Scotiabank|171|30|74|45|91|90|78|72|58|81|Prolific Winger|
 |CF|K. JACKSON|EAST ANGLIA TOWN|English 2nd Division|181|24|73|53|92|92|75|70|64|80|Goal Poacher|
 |RMF|M. BOYLE|HIBERNIAN|Ladbrokes Premiership|172|25|62|57|92|90|75|69|65|80|Roaming Flank|
+
+## Good stamina<a id="STAMINA"></a>
+http://pesdb.net/pes2019/?stamina=90-99&overall_rating=75-79&sort=stamina
+
