@@ -4,6 +4,7 @@
   - [CB](#CB)
   - [DMF/CMF](#DMF-CMF)
   - [CF/SS](#CF-SS)
+  - [HIGH SPEED](#high speed players with good stamina)
 
 ## CB
 ```
@@ -126,7 +127,7 @@ http://pesdb.net/pes2019/?age=15-32&height=178-227&pos=11,12&finishing=75-99&spe
 |CF|T. ABRAHAM|WEST MIDLANDS VILLAGE|English 2nd Division|190|21|77|78|52|82|86|76|75|68|85|Goal Poacher|
 |CF|N. BLANDI|SAN LORENZO|Superliga Quilmes Clásica|181|28|82|78|56|75|76|80|78|53|84|Goal Poacher|
 
-### high speed players with good stamina
+### High speed players with good stamina
 http://pesdb.net/pes2019/?speed=90-99&explosive_power=90-99&stamina=75-99&overall_rating=40-79&sort=overall_at_max_level
 
 |Position|Player Name|Team Name|League|Height|Age|Attacking Prowess|Defensive Prowess|Speed|Explosive Power|Stamina|Overall Rating|Maximum Level|Overall at max Level|Playing Style|
