@@ -38,6 +38,14 @@
 
 
 ## CB
+```
+Age:15-30
+height:180+
+ball winning:76+
+speed:75+
+stamina:75+
+skill: marking and intercept.
+```
 Recommend filter:http://pesdb.net/pes2019/?age=15-30&height=180-227&pos=1&ball_winning=76-99&speed=75-99&explosive_power=75-99&stamina=75-99&overall_rating=40-79&S33=1&S35=1&sort=overall_at_max_level
 
 
