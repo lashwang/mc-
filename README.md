@@ -157,3 +157,31 @@ http://pesdb.net/pes2019/?age=15-32&height=178-227&pos=11,12&finishing=75-99&spe
 |CF|L. MOTHIBA|STRASBOURG|Ligue 1 Conforama|182|22|79|78|52|80|81|77|77|63|85|---|
 |CF|T. ABRAHAM|WEST MIDLANDS VILLAGE|English 2nd Division|190|21|77|78|52|82|86|76|75|68|85|Goal Poacher|
 |CF|N. BLANDI|SAN LORENZO|Superliga Quilmes Clásica|181|28|82|78|56|75|76|80|78|53|84|Goal Poacher|
+
+### high speed players with good stamina
+http://pesdb.net/pes2019/?speed=90-99&explosive_power=90-99&stamina=75-99&overall_rating=40-79&sort=overall_at_max_level
+|Position|Player Name|Team Name|League|Height|Age|Attacking Prowess|Defensive Prowess|Speed|Explosive Power|Stamina|Overall Rating|Maximum Level|Overall at max Level|Playing Style|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|LB|T. HERNÁNDEZ|PV BLUE WHITE|Spanish League|184|21|69|70|92|90|78|79|66|90|Offensive Full-back|
+|LMF|J. IZQUIERDO|EAST SUSSEX|English League|171|26|75|42|91|93|81|78|55|86|Dummy Runner|
+|RMF|K. BELLARABI|BAYER LEVERKUSEN|Other European Leagues|184|28|77|55|90|92|75|79|52|85|Prolific Winger|
+|LWF|CRISTIAN TELLO|AN GREEN WHITE|Spanish League|178|27|76|50|91|93|76|79|53|85|Prolific Winger|
+|CF|C. N'JIE|OLYMPIQUE MARSEILLE|Ligue 1 Conforama|175|25|80|52|94|93|78|78|55|85|Dummy Runner|
+|RB|K. MBABU|YOUNG BOYS|Raiffeisen Super League|184|23|66|68|95|93|84|77|59|85|Offensive Full-back|
+|RMF|C. BASSOGOG|HENAN JIANYE|CFA Super League|173|23|71|46|92|94|75|76|60|85|Prolific Winger|
+|RMF|J. FORREST|CELTIC|Ladbrokes Premiership|170|27|70|55|90|92|78|79|53|84|Roaming Flank|
+|CF|F. ACHEAMPONG|TIANJIN TEDA|CFA Super League|168|25|75|58|95|90|83|77|56|84|Prolific Winger|
+|LWF|M. SIMON|ED BLUE BURGUNDY|Spanish League|168|23|70|46|91|93|75|76|60|84|Prolific Winger|
+|CF|A. DONIS|Free Agents|Free Agent|178|22|73|53|90|91|77|75|64|84|Hole Player|
+|RB|L. ADVÍNCULA|MD SCARLET WHITE|Spanish League|178|28|68|63|92|90|83|76|55|83|Offensive Full-back|
+|CF|A. DIABY|SPORTING CP|Liga NOS|173|27|80|53|92|90|77|76|55|83|Goal Poacher|
+|LWF|S. MENDOZA|AMIENS SC|Ligue 1 Conforama|171|26|72|50|91|92|78|75|57|83|---|
+|RB|D. YEDLIN|TYNESIDE|English League|172|25|66|68|93|93|83|75|58|83|Offensive Full-back|
+|RB|R. FREDERICKS|EAST LONDON|English League|181|26|65|64|93|92|78|74|58|83|Offensive Full-back|
+|CF|O. KAYODE|SHAKHTAR DONETSK|Other European Leagues|176|25|77|56|93|90|75|73|59|82|Hole Player|
+|LB|R. HENRY|HOUNSLOW|English 2nd Division|170|21|60|60|90|92|78|68|73|82|Offensive Full-back|
+|RWF|M. LECKIE|Free Agents|Free Agent|181|27|70|50|91|91|77|75|56|81|---|
+|LWF|J. CUERO|RIONEGRO ÁGUILAS|Liga Águila|175|30|70|50|93|92|82|73|57|81|Prolific Winger|
+|RWF|M. CERATTO|EVERTON|Campeonato Scotiabank|171|30|74|45|91|90|78|72|58|81|Prolific Winger|
+|CF|K. JACKSON|EAST ANGLIA TOWN|English 2nd Division|181|24|73|53|92|92|75|70|64|80|Goal Poacher|
+|RMF|M. BOYLE|HIBERNIAN|Ladbrokes Premiership|172|25|62|57|92|90|75|69|65|80|Roaming Flank|
