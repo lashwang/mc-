@@ -160,3 +160,14 @@ http://pesdb.net/pes2019/?speed=90-99&explosive_power=90-99&stamina=75-99&overal
 ## Good stamina<a id="STAMINA"></a>
 http://pesdb.net/pes2019/?stamina=90-99&overall_rating=75-79&sort=stamina
 
+|Position|Player Name|Team Name|League|Height|Age|Attacking Prowess|Defensive Prowess|Speed|Explosive Power|Stamina|Overall Rating|Maximum Level|Overall at max Level|Playing Style|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|DMF|M. ELNENY|ARSENAL|English League|180|26|68|77|67|68|95|79|54|86|Anchor Man|
+|DMF|G. FERNANDES|Free Agents|Free Agent|179|32|66|81|71|71|93|76|50|82|The Destroyer|
+|LMF|D. LAXALT|MILAN|Italian League|178|25|70|58|87|90|92|79|55|86|Box-to-Box|
+|DMF|C. KOUYATÉ|SOUTH NORWOOD|English League|189|29|72|82|81|77|92|76|55|83|Anchor Man|
+|CMF|J. HOGG|WEST YORKSHIRE TOWN|English League|170|30|69|77|72|73|92|75|55|82|The Destroyer|
+|DMF|T. XHAKA|BASEL|Raiffeisen Super League|172|27|66|68|82|78|91|75|56|83|The Destroyer|
+|DMF|E. CAPOUE|HERTFORDSHIRE|English League|189|30|70|76|64|66|90|78|52|84|Anchor Man|
+|CMF|M. NOBLE|EAST LONDON|English League|180|31|73|77|66|65|90|77|52|84|The Destroyer|
+|AMF|ANDRÉ CASTRO|GÖZTEPE|Spor Toto Süper Lig|181|30|74|66|75|76|90|77|53|84|The Destroyer|
